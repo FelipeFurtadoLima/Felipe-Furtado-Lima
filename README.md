@@ -1,1 +1,3 @@
-# Felipe-Furtado-Lima
+# Felipe Furtado Lima
+## Contador de formação, auditor fiscal da SEFAZ/CE
+#### learning programming in phyton ...
